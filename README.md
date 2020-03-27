@@ -3,6 +3,8 @@ This is an QP-based robot controll framework, which is designed for torque-contr
 
 Note that we differenciate the robot with 'torque-control' and 'position-control', which means their low-level joint controllers have 'torque' or 'position' as their inputs.
 
+I named it Project Bronya to memorize my first, also deepest lover, who looks like Bronya in Game:Honkai Impact 3rd. Everything is the same, but you are not here, and I still am.
+
 ## Dependency
 - Environment: Ubuntu, Python3
 - Physical Engine: Vortex
